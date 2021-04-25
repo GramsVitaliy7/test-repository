@@ -1,1 +1,2 @@
+Change test3 file
 Other changes
